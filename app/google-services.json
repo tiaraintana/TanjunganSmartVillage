@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73866967074",
+    "firebase_url": "https://tanjungansmartvillage.firebaseio.com",
+    "project_id": "tanjungansmartvillage",
+    "storage_bucket": "tanjungansmartvillage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73866967074:android:f1aa3e0473158661b6327b",
+        "android_client_info": {
+          "package_name": "com.example.tanjungansmartvillage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73866967074-n952f5ngsqjcci6i47f4p93cu0rv8fvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanjungansmartvillage",
+            "certificate_hash": "114ebca9bbf1b9d2f6807e97242cab5f1199e431"
+          }
+        },
+        {
+          "client_id": "73866967074-d90lv7s5mfon7oo0hmqa3hfepoqrq5o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJmA-Z7HrmvIYeKCCMpSRDHG2YU7iQ8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73866967074-d90lv7s5mfon7oo0hmqa3hfepoqrq5o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
